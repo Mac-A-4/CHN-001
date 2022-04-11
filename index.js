@@ -20,6 +20,16 @@
     { hz: '友', py: 'Yǒu', en: 'friend' },
     { hz: '王', py: 'Wáng', en: '(a family name), king' },
     { hz: '朋', py: 'Péng', en: 'friend' },
+    { hz: '是', py: 'Shì', en: 'to be' },
+    { hz: '老', py: 'Lǎo', en: 'old' },
+    { hz: '师', py: 'Shī', en: 'teacher' },
+    { hz: '吗', py: 'Ma', en: '(question particle)' },
+    { hz: '不', py: 'Bù', en: 'not, no' },
+    { hz: '学', py: 'Xué', en: 'to study' },
+    { hz: '也', py: 'Yě', en: 'also, too' },
+    { hz: '人', py: 'Rén', en: 'person' },
+    { hz: '中', py: 'Zhōng', en: 'middle, center' },
+    { hz: '国', py: 'Guó', en: 'country' },
 ]
 .forEach((value) => {
     let dummy = document.createElement('div')
