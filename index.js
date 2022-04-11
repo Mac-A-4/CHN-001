@@ -30,6 +30,11 @@
     { hz: '人', py: 'Rén', en: 'person' },
     { hz: '中', py: 'Zhōng', en: 'middle, center' },
     { hz: '国', py: 'Guó', en: 'country' },
+    { hz: '北', py: 'Běi', en: 'north' },
+    { hz: '京', py: 'Jīng', en: 'capital city' },
+    { hz: '美', py: 'Měi', en: 'beautiful' },
+    { hz: '纽', py: 'Niǔ', en: 'knob, button' },
+    { hz: '约', py: 'Yuē', en: 'agreement, appointment' },
 ]
 .forEach((value) => {
     let dummy = document.createElement('div')
